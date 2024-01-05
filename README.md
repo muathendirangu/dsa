@@ -1,2 +1,2 @@
 # dsa
-data structures and algorithms repo
+data structures and algorithms challenges and solutions
